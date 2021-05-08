@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h1 {
+    color: turquoise;
+    font-weight: bold;
+}
+img{
+  width: 300px;
+  height: 300px;
+}
